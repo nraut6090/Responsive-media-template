@@ -1,0 +1,11 @@
+generally when we define width of any element then it will be consider as it's finsl width at that instance
+But when we add any padding or border then total-width=width+Padding+border,
+Due to this element looks bigger in size irrespective of width we have mentioned
+box-sizing:border-box ,allows us to add padding and border to the same width ,
+so that width of element remains constant even if we change padding and borderof an element.
+
+
+Media Query Break-Points  
+1.991px
+2.767px
+3.479px
